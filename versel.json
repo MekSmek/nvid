@@ -4,5 +4,8 @@
             "source": "/v1/chat/completions",
             "destination": "/api/proxy"
         }
-    ]
+    ],
+    "env": {
+        "NVIDIA_API_KEY": "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"
+    }
 }
